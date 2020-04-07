@@ -1,0 +1,12 @@
+C:\projetos\logatti\csharp\Aula5Ferramenta\Front\bin\Debug\Front.exe.config
+C:\projetos\logatti\csharp\Aula5Ferramenta\Front\bin\Debug\Front.exe
+C:\projetos\logatti\csharp\Aula5Ferramenta\Front\bin\Debug\Front.pdb
+C:\projetos\logatti\csharp\Aula5Ferramenta\Front\bin\Debug\Biblioteca.dll
+C:\projetos\logatti\csharp\Aula5Ferramenta\Front\bin\Debug\Biblioteca.pdb
+C:\projetos\logatti\csharp\Aula5Ferramenta\Front\obj\Debug\Front.csprojAssemblyReference.cache
+C:\projetos\logatti\csharp\Aula5Ferramenta\Front\obj\Debug\Front.Form1.resources
+C:\projetos\logatti\csharp\Aula5Ferramenta\Front\obj\Debug\Front.Properties.Resources.resources
+C:\projetos\logatti\csharp\Aula5Ferramenta\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\projetos\logatti\csharp\Aula5Ferramenta\Front\obj\Debug\Front.csproj.CopyComplete
+C:\projetos\logatti\csharp\Aula5Ferramenta\Front\obj\Debug\Front.exe
+C:\projetos\logatti\csharp\Aula5Ferramenta\Front\obj\Debug\Front.pdb

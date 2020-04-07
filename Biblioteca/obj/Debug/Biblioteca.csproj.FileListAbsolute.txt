@@ -1,0 +1,5 @@
+C:\projetos\logatti\csharp\Aula5Ferramenta\Biblioteca\bin\Debug\Biblioteca.dll
+C:\projetos\logatti\csharp\Aula5Ferramenta\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\projetos\logatti\csharp\Aula5Ferramenta\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\projetos\logatti\csharp\Aula5Ferramenta\Biblioteca\obj\Debug\Biblioteca.dll
+C:\projetos\logatti\csharp\Aula5Ferramenta\Biblioteca\obj\Debug\Biblioteca.pdb
